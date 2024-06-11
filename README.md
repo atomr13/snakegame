@@ -27,11 +27,6 @@ To install and run the Snake Game, follow these steps:
     cd snakegame
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 To start the Snake Game, run the following command:
 
